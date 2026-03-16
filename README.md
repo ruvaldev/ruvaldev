@@ -1,69 +1,58 @@
 <!-- ========================================================
      GitHub Profile README — @ruvaldev
-     Instrucciones al final del archivo
+     Rumaldo Valdivia Riquelme — Web Developer Full Stack
+     Portfolio: ruvaldev.vercel.app
 ======================================================== -->
-
-<!-- ══════════════════════════════════════════════════════
-     BANNER ANIMADO + TYPING ANIMATION
-══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Banner principal con efecto hacker -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:58a6ff&height=200&section=header&text=Riquelme&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=@ruvaldev%20•%20Web%20Developer&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:58a6ff&height=200&section=header&text=Rumaldo%20Valdivia&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=@ruvaldev%20•%20Web%20Developer%20Full%20Stack%20•%20Lima%2C%20Perú&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Full+Stack;Construyendo+desde+la+terminal;React+%7C+Node.js+%7C+TypeScript;En+el+silencio+nace+el+código." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+Frontend+%26+Full+Stack;React+%7C+Next.js+%7C+TypeScript+%7C+Laravel;Construyo+apps+modernas+y+escalables;Disponible+para+freelance+y+colaboraciones;%22Código+claro.+Soluciones+reales.%22" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Badges de visitas y estado -->
-![Profile Views](https://komarev.com/ghpvc/?username=ruvaldev&label=Visitas+al+perfil&color=58a6ff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ruvaldev&label=Visitas&color=58a6ff&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/ruvaldev?label=Seguidores&style=for-the-badge&color=58a6ff&labelColor=0d1117)
-![GitHub stars](https://img.shields.io/github/stars/ruvaldev?label=Estrellas&style=for-the-badge&color=58a6ff&labelColor=0d1117)
+[![Portfolio](https://img.shields.io/badge/ruvaldev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ruvaldev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/ruval)
+[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:riquelmerumaldovaldivia@gmail.com)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════
-     SOBRE MÍ
-══════════════════════════════════════════════════════ -->
-
 ## `$ whoami`
 
 ```bash
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   Nombre   →  Riquelme                                   ║
-║   Handle   →  @ruvaldev                                  ║
-║   Rol      →  Web Developer · Full Stack                 ║
-║   Enfoque  →  Construir cosas que realmente funcionen    ║
-║   Estado   →  Siempre commiteando ✓                      ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║   Nombre   →  Rumaldo Valdivia Riquelme                        ║
+║   Handle   →  @ruvaldev                                        ║
+║   Rol      →  Web Developer · Frontend & Full Stack            ║
+║   Stack    →  React · Next.js · TypeScript · Laravel           ║
+║   Desde    →  Lima, Perú 🇵🇪                                    ║
+║   Estado   →  Freelance · Disponible para proyectos ✓          ║
+║   Frase    →  "Código claro. Soluciones reales."               ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
-> *"En el silencio de una terminal vacía, es donde se gestan las ideas más ruidosas."*
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-- 🔭 Actualmente trabajando en proyectos **Full Stack**
-- 🌱 Siempre aprendiendo nuevas tecnologías
-- ⚡ Apasionado por el rendimiento y la arquitectura limpia
-- 🛠️ Del **frontend al backend**, sin miedo al stack completo
-- 💬 Pregúntame sobre **React, Node.js, Laravel o bases de datos**
-- 📫 Contacto: **[rumaldorv.11@outlook.com]**
+- 🔭 Actualmente: **Web Developer Freelance** en RuvalDev
+- 🏢 Experiencia en **Firefly Digital Solutions**, ROMA CORP y GETBYTE
+- ⚙️ Construyo **aplicaciones web modernas, escalables** y bien diseñadas
+- 🎓 Téc. Ingeniería de Software con IA — **SENATI** (2021–2024)
+- 🛡️ Certificado en **IoT y Ciberseguridad** — CISCO Networking Academy
+- 🌐 Portfolio: **[ruvaldev](https://ruvaldev.vercel.app)**
+- 📫 Email: **riquelmerumaldovaldivia@gmail.com**
 
 <br clear="right"/>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════
-     TECH STACK CON ICONOS
-══════════════════════════════════════════════════════ -->
 
 ## `$ tech --stack`
 
@@ -71,31 +60,96 @@
 
 ### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,sass&theme=dark" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express&theme=dark" />
 </p>
 
 ### 🗄️ Bases de Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase&theme=dark" />
 </p>
 
 ### 🧰 Herramientas & Entorno
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
 </p>
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════
-     ESTADÍSTICAS AVANZADAS
-══════════════════════════════════════════════════════ -->
+## `$ projects --featured`
+
+> Mis proyectos más recientes — construidos con tecnologías modernas.
+
+<div align="center">
+
+[![latido-negro](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=latido-negro&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/latido-negro)
+[![solcito](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=solcito&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/solcito)
+[![doblix](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=doblix&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/doblix)
+[![digital-clock-animation](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=digital-clock-animation&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/digital-clock-animation)
+
+</div>
+
+### 🖤 Latido Negro — Plataforma de Escritura Creativa
+> Plataforma web para escritores, poetas y amantes de la literatura. Crea perfiles, publica escritos, interactúa con likes y comentarios.
+
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=007ACC)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0d1117?style=flat-square&logo=shadcnui&logoColor=white)
+
+---
+
+### ☀️ Solcito — Aplicación del Clima
+> App del clima moderna y responsiva con búsqueda por ciudad y datos en tiempo real.
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=007ACC)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+---
+
+### 🧩 Doblix — Memory Game
+> Juego de memoria interactivo con cartas animadas, construido con React y Next.js.
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+---
+
+### ⏱️ Digital Clock Animation
+> Reloj digital animado con HTML, CSS y JavaScript puro.
+
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=264de4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+---
+
+## `$ experience --log`
+
+<details open>
+<summary><b>📋 Historial profesional completo</b></summary>
+
+<br/>
+
+| Período | Empresa | Rol |
+|---------|---------|-----|
+| 🟢 May 2025 – Hoy | **RuvalDev** — Freelance · Remoto | Web Developer Full Stack |
+| Dic 2024 – Mar 2025 | **Firefly Digital Solutions** — Lima, Perú | Full Stack Developer |
+| May 2024 – Jul 2024 | **ROMA CORP S.A.C.** — Lima, Perú | Backend Developer (PHP/Laravel) |
+| Ene 2023 – May 2024 | **GETBYTE S.A.C.** — Lima, Perú | Backend Developer |
+
+</details>
+
+---
 
 ## `$ stats --advanced`
 
@@ -112,10 +166,6 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════
-     ACTIVITY GRAPH
-══════════════════════════════════════════════════════ -->
-
 ## `$ git log --graph`
 
 <div align="center">
@@ -125,29 +175,6 @@
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════
-     PROYECTOS DESTACADOS
-══════════════════════════════════════════════════════ -->
-
-## `$ projects --featured`
-
-> Algunas de las cosas que he construido.
-
-<div align="center">
-
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=NOMBRE-REPO-1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/NOMBRE-REPO-1)
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=NOMBRE-REPO-2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/NOMBRE-REPO-2)
-[![Proyecto 3](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=NOMBRE-REPO-3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/NOMBRE-REPO-3)
-[![Proyecto 4](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=NOMBRE-REPO-4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/NOMBRE-REPO-4)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════
-     SNAKE ANIMATION
-══════════════════════════════════════════════════════ -->
 
 ## `$ git commit --snake`
 
@@ -163,18 +190,25 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════
-     CONTACTO
-══════════════════════════════════════════════════════ -->
+## `$ certifications --list`
+
+| Certificación | Institución | Año |
+|---------------|-------------|-----|
+| 🏅 Introducción a IoT | CISCO Networking Academy | 2021 |
+| 🏅 Introducción a la Seguridad Cibernética | CISCO Networking Academy | 2021 |
+| 🏅 Entrepreneurship | CISCO Networking Academy | 2021 |
+| 🏅 Ciberseguridad: Cómo protegerse y proteger nuestras redes | Universidad de Montevideo · SENATI | 2022 |
+
+---
 
 ## `$ contact --open`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=58a6ff&label=🌐)](https://tu-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter%20%2F%20X-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/tu-handle)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:tu@email.com)
+[![Portfolio](https://img.shields.io/badge/ruvaldev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://ruvaldev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/ruval)
+[![Gmail](https://img.shields.io/badge/riquelmerumaldovaldivia@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:riquelmerumaldovaldivia@gmail.com)
+[![Outlook](https://img.shields.io/badge/rumaldorv.11@outlook.com-0d1117?style=for-the-badge&logo=microsoftoutlook&logoColor=0078d4)](mailto:rumaldorv.11@outlook.com)
 
 </div>
 
@@ -185,66 +219,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:0a3d62,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
 ```bash
-$ git commit -m "siempre empujando hacia adelante" && git push origin main
+$ git commit -m "código claro, soluciones reales" && git push origin main
 ```
 
-*Gracias por visitar — siéntete libre de explorar los repos.*
+*¡Gracias por llegar hasta aquí! ¿Trabajamos juntos?*
 
 </div>
 
 <!-- ══════════════════════════════════════════════════════
-INSTRUCCIONES DE CONFIGURACIÓN
-══════════════════════════════════════════════════════
+PENDIENTE DE EDITAR:
 
-━━━ 🐍 SNAKE ANIMATION ━━━
-
-1. En tu repo "ruvaldev", crea el archivo:
-   .github/workflows/snake.yml
-
-2. Contenido del archivo:
-
-   name: Generate Snake
-
-   on:
-     schedule:
-       - cron: "0 */12 * * *"
-     workflow_dispatch:
-
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: ruvaldev
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v3
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-3. Ve a Settings → Actions → General → Workflow permissions
-   → Activa "Read and write permissions"
-
-4. Ejecuta el workflow desde la pestaña Actions
-
-━━━ 📦 PROYECTOS DESTACADOS ━━━
-
-Reemplaza en las 4 líneas de pin cards:
-  NOMBRE-REPO-1  →  nombre exacto de tu repositorio público
-  NOMBRE-REPO-2  →  nombre exacto de tu repositorio público
-  (y así con los demás)
-
-━━━ 📫 CONTACTO ━━━
-
-Reemplaza:
-  https://tu-portfolio.com         → tu URL real
-  linkedin.com/in/tu-perfil        → tu perfil de LinkedIn
-  twitter.com/tu-handle            → tu usuario de Twitter/X
-  mailto:tu@email.com              → tu email real
-
+→ LinkedIn: reemplaza linkedin.com/in/tu-perfil con tu URL real
+→ Proyectos: verifica que los nombres de repo coincidan exactamente
+   con los que tienes en GitHub (latido-negro, solcito, doblix, digital-clock-animation)
 ══════════════════════════════════════════════════════ -->
