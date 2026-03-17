@@ -8,9 +8,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:58a6ff&height=200&section=header&text=Rumaldo%20Valdivia&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=@ruvaldev%20•%20Web%20Developer%20Full%20Stack%20•%20Lima%2C%20Perú&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+Frontend+%26+Full+Stack;React+%7C+Next.js+%7C+TypeScript+%7C+Laravel;Construyo+apps+modernas+y+escalables;Disponible+para+freelance+y+colaboraciones;%22Código+claro.+Soluciones+reales.%22" alt="Typing SVG" />
-</a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+Frontend+%26+Full+Stack;React+%7C+Next.js+%7C+TypeScript+%7C+Laravel;Construyo+apps+modernas+y+escalables;Disponible+para+freelance+y+colaboraciones;%22C%C3%B3digo+claro.+Soluciones+reales.%22)
 
 <br/>
 
@@ -24,7 +22,7 @@
 
 ---
 
-## `$ whoami`
+## `$ Quién soy`
 
 ```bash
 ╔════════════════════════════════════════════════════════════════╗
