@@ -60,7 +60,7 @@
 
 ### 🖥️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark" />
 </p>
 
 ### ⚙️ Backend
@@ -87,12 +87,21 @@
 > Mis proyectos más recientes — construidos con tecnologías modernas.
 
 <div align="center">
-
-[![latido-negro](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=latido-negro&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/latido-negro)
+ 
+### 🖤 [Latido Negro — Plataforma de Escritura Creativa](https://latidonegro.vercel.app)
+ 
+[![Demo](https://img.shields.io/badge/🌐_Ver_Demo-58a6ff?style=for-the-badge&labelColor=0d1117)](https://latidonegro.vercel.app)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=007ACC)
+![Tailwind v4](https://img.shields.io/badge/Tailwind_v4-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0d1117?style=flat-square&logo=shadcnui&logoColor=white)
+ 
+> Plataforma web moderna para escritores, poetas y amantes de la literatura. Perfiles personalizados, publicación pública/privada, likes, comentarios y autenticación segura.
 [![solcito](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=solcito&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/solcito)
-[![doblix](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=doblix&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/doblix)
-[![digital-clock-animation](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=digital-clock-animation&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/digital-clock-animation)
-
+[![memory-game](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=memory-game&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/memory-game)
+[![Digital-Clock](https://github-readme-stats.vercel.app/api/pin/?username=ruvaldev&repo=Digital-Clock&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/ruvaldev/Digital-Clock)
+ 
 </div>
 
 ### 🖤 Latido Negro — Plataforma de Escritura Creativa
@@ -142,10 +151,10 @@
 
 | Período | Empresa | Rol |
 |---------|---------|-----|
-| 🟢 May 2025 – Hoy | **RuvalDev** — Freelance · Remoto | Web Developer Full Stack |
+| 🟢 May 2025 – Hoy | **Independiente** — Freelance · Remoto | Web Developer Full Stack |
 | Dic 2024 – Mar 2025 | **Firefly Digital Solutions** — Lima, Perú | Full Stack Developer |
 | May 2024 – Jul 2024 | **ROMA CORP S.A.C.** — Lima, Perú | Backend Developer (PHP/Laravel) |
-| Ene 2023 – May 2024 | **GETBYTE S.A.C.** — Lima, Perú | Backend Developer |
+| Ene 2023 – May 2024 | **GETBYTE S.A.C.** — Lima, Perú | Backend Developer (PHP/Laravel) |
 
 </details>
 
@@ -226,10 +235,3 @@ $ git commit -m "código claro, soluciones reales" && git push origin main
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════
-PENDIENTE DE EDITAR:
-
-→ LinkedIn: reemplaza linkedin.com/in/tu-perfil con tu URL real
-→ Proyectos: verifica que los nombres de repo coincidan exactamente
-   con los que tienes en GitHub (latido-negro, solcito, doblix, digital-clock-animation)
-══════════════════════════════════════════════════════ -->
